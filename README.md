@@ -1,16 +1,16 @@
 # EMGFingerClassification
 
 ## Step 1: Recording
-1. ![Recording Process](Recording.gif)
-2. **Data Recording:**
+![Recording Process](Recording.gif)
+1. **Data Recording:**
     - Data is recorded for all 5 fingers, each recorded 5 times.
     - Two recording sessions:
         - First session: 4-second gap between recordings.
         - Second session: 2-second gap between recordings.
-3. **Filtering:**
+2. **Filtering:**
     - Bandstop filter: 45 to 55Hz.
     - Bandpass filter: 1 to 400Hz.
-4. **Data Storage:**
+3. **Data Storage:**
     - Recorded raw data is saved in CSV files.
 
 ## Step 2: Processing and Labelling of Data
