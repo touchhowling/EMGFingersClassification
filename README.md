@@ -20,10 +20,10 @@
     - Train dataset: 2-second interval.
 2. **Data Smoothing:**
     - Applied envelope on the dataset for smoothing.
-    - ![Data Smoothing](path_to_your_image.png)
+    - ![Data Smoothing](images/envelope.png)
 3. **Peak Detection:**
     - Manual adjustment of prominence, distance, and height parameters to detect all peaks.
-    - ![Peak Detection](path_to_your_image.png)
+    - ![Peak Detection](images/peak.png)
 
 ## Step 3: Labelling Dataset
 - Labels: Thumb, Index, Middle, Ring, Pinky.
