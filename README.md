@@ -64,7 +64,6 @@
 4. **Frequency Domain Analysis:** Perform frequency domain analysis to extract frequency-based features.
 5. **Change Sampling Rate:** Experiment with different sampling rates during data recording to capture more detailed signal information.
 
-- 
 ## Additional Information
 - **Recording Software:** Provided in this repository.
 - **Processing and Labelling:** Performed in `LabellingDataset.ipynb`.
