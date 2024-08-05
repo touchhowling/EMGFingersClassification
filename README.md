@@ -31,7 +31,7 @@
 - Baseline: 100ms window between two peak centers with a width of 100ms.
 
 ## Step 4: Visualising Various Channels According to Our Labels
-    - ![Visualisation](images/visualisation.png)
+- ![Visualisation](images/visualisation.png)
 
 ## Step 5: Created Datasets with Time Features Rather than Channel Data
 - Time features considered:
@@ -56,6 +56,15 @@
   - Random Forest
   - CNN (Convolutional Neural Network)
 - ![Confusion Matrix](images/confusion_matrix.png)
+
+## Tips for Improving Accuracy
+1. **Change Window Size:** Experiment with different window sizes for feature extraction.
+2. **Change Number of Epochs for CNN:** Adjust the number of training epochs for the Convolutional Neural Network.
+3. **Add More Time Features:** Incorporate additional time-domain features for better representation of the data.
+4. **Frequency Domain Analysis:** Perform frequency domain analysis to extract frequency-based features.
+5. **Change Sampling Rate:** Experiment with different sampling rates during data recording to capture more detailed signal information.
+
+- 
 ## Additional Information
 - **Recording Software:** Provided in this repository.
 - **Processing and Labelling:** Performed in `LabellingDataset.ipynb`.
