@@ -23,7 +23,7 @@
     - ![Data Smoothing](images/envelope.png)
 3. **Peak Detection:**
     - Manual adjustment of prominence, distance, and height parameters to detect all peaks.
-    - ![Peak Detection](images/peak.png)
+    - ![Peak Detection](images/peaks.png)
 
 ## Step 3: Labelling Dataset
 - Labels: Thumb, Index, Middle, Ring, Pinky.
@@ -31,6 +31,7 @@
 - Baseline: 100ms window between two peak centers with a width of 100ms.
 
 ## Step 4: Visualising Various Channels According to Our Labels
+    - ![Visualisation](images/visualisation.png)
 
 ## Step 5: Created Datasets with Time Features Rather than Channel Data
 - Time features considered:
@@ -54,7 +55,7 @@
   - SVM (Support Vector Machine)
   - Random Forest
   - CNN (Convolutional Neural Network)
-
+- ![Confusion Matrix](images/confusion_matrix.png)
 ## Additional Information
 - **Recording Software:** Provided in this repository.
 - **Processing and Labelling:** Performed in `LabellingDataset.ipynb`.
