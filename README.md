@@ -1,7 +1,7 @@
 # EMGFingerClassification
 
 ## Step 1: Recording
-![Recording Process](Recording.gif)
+![Recording Process](images/Recording.gif)
 1. **Data Recording:**
     - Data is recorded for all 5 fingers, each recorded 5 times.
     - Two recording sessions:
