@@ -1,7 +1,7 @@
 # EMGFingerClassification
 
 ## Step 1: Recording
-1. **GIF Path:** ![Recording Process](path_to_your_gif.gif)
+1. ![Recording Process](Recording.gif)
 2. **Data Recording:**
     - Data is recorded for all 5 fingers, each recorded 5 times.
     - Two recording sessions:
