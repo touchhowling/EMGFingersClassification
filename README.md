@@ -1,6 +1,6 @@
 # EMGFingerClassification
 
-## Step 1: Recording
+## Step 1: [Recording](https://github.com/touchhowling/EMGRecordingSoftware)
 ![Recording Process](images/Recording.gif)
 1. **Data Recording:**
     - Data is recorded for all 5 fingers, each recorded 5 times.
